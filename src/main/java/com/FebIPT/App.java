@@ -9,4 +9,7 @@ public class App {
   public void vanitha() {
 
 }
+  public void priya() {
+	  System.out.println("Print me");
+  }
 }
