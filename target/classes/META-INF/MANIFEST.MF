@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: kakas
 Build-Jdk: 17.0.5
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Build-Jdk-Spec: 22
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> be787ca2738ac3f5b322e467393fd1ef3b25d8a1
