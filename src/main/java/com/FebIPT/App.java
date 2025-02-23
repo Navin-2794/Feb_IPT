@@ -7,4 +7,12 @@ public class App {
   public void padmaja() {
 	  
   }
+  
+  public void lakshmi() {
+	  
+  }
+  public void karthik() {
+	
+  }
 }
+  
