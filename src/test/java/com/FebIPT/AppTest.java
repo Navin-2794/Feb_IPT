@@ -10,4 +10,7 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
     assertTrue(true);
   }
+
+    public void n(){
+    }
 }
